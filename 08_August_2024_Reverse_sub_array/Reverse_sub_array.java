@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-class Main {
+class Reverse_sub_array {
     public static void main(String args[]) throws IOException {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(read.readLine());
