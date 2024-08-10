@@ -1,5 +1,5 @@
-//{ Driver Code Starts
-// Initial Template for Java
+//{Driver Code Starts
+//Initial Template for Java
 
 import java.io.*;
 import java.util.*;
