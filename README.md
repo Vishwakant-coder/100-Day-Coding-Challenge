@@ -7,3 +7,4 @@ Day Three(10-08-2024), question:- Kadane's Algorithm<br>
 Day Four(11-08-2024), question:- Array Duplicates<br>
 Day Five(12-08-2024), question:- Chocolate Distribution Problem<br>
 Day Six(13-08-2024), question:- Stock buy and sell<br>
+Day Seven(14-08-2024), question:- Next Permutation<br>
