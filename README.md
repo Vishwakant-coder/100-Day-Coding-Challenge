@@ -9,3 +9,4 @@ Day Five(12-08-2024), question:- Chocolate Distribution Problem<br>
 Day Six(13-08-2024), question:- Stock buy and sell<br>
 Day Seven(14-08-2024), question:- Next Permutation<br>
 Day Eight(15-08-2024), question:- Kth Largest Element in an Array<br>
+Day Nine(16-08-2024), question:- Triplet Sum in Array<br>
