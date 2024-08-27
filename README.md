@@ -20,3 +20,4 @@ Day Sixteen(23-08-2024), question:- Longest Common Prefix of Strings<br>
 Day Seventeen(24-08-2024), question:- Convert a sentence into its equivalent mobile numeric keypad sequence<br>
 Day Eighteen(25-08-2024), question:- Same characters in two strings<br>
 Day Nineteen(26-08-2024), question:- Longest Repeating Character Replacement<br>
+Day Twenty(27-08-2024), question:- Bitwise AND of the Array<br>
