@@ -21,4 +21,6 @@ Day Seventeen(24-08-2024), question:- Convert a sentence into its equivalent mob
 Day Eighteen(25-08-2024), question:- Same characters in two strings<br>
 Day Nineteen(26-08-2024), question:- Longest Repeating Character Replacement<br>
 Day Twenty(27-08-2024), question:- Bitwise AND of the Array<br>
-Day Twenty-one(27-08-2024), question:- Sorting Elements of an Array by Frequency<br>
+Day Twenty-one(28-08-2024), question:- Sorting Elements of an Array by Frequency<br>
+Day Twenty-two (29-08-2024), question:- Search Pattern (Rabin-Karp Algorithm)
+<br>
