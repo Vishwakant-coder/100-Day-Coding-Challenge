@@ -23,4 +23,5 @@ Day Nineteen(26-08-2024), question:- Longest Repeating Character Replacement<br>
 Day Twenty(27-08-2024), question:- Bitwise AND of the Array<br>
 Day Twenty-one(28-08-2024), question:- Sorting Elements of an Array by Frequency<br>
 Day Twenty-two (29-08-2024), question:- Search Pattern (Rabin-Karp Algorithm)
+Day Twenty-three (29-08-2024), question:- Anti Diagonal Traversal of Matrix
 <br>
