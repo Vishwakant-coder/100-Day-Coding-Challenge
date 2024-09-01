@@ -24,6 +24,5 @@ Day Twenty(27-08-2024), question:- Bitwise AND of the Array<br>
 Day Twenty-one(28-08-2024), question:- Sorting Elements of an Array by Frequency<br>
 Day Twenty-two (29-08-2024), question:- Search Pattern (Rabin-Karp Algorithm)
 Day Twenty-three (29-08-2024), question:- Anti Diagonal Traversal of Matrix
-Day Twenty-four (29-08-2024), question:- Left View of Binary Tree
-<br>
-
+Day Twenty-four (29-08-2024), question:- Left View of Binary Tree<br>
+Day Twenty-five (29-08-2024), question:- Left View of Binary Tree<br>
