@@ -28,3 +28,5 @@ Day Twenty-four (31-08-2024), question:- Left View of Binary Tree<br>
 Day Twenty-five (01-09-2024), question:- Array Leaders<br>
 Day Twenty-six (02-09-2024), question:- Rotate by 90 degree<br>
 Day Twenty-seven (03-09-2024), question:- Find duplicate rows in a binary matrix<br>
+Day Twenty-eight (04-09-2024), question:- Common in 3 Sorted Arrays <br>
+Day Twenty-nine (05-09-2024), question:- Floor in a Sorted Array <br>
