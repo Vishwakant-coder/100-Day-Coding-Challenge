@@ -30,3 +30,4 @@ Day Twenty-six (02-09-2024), question:- Rotate by 90 degree<br>
 Day Twenty-seven (03-09-2024), question:- Find duplicate rows in a binary matrix<br>
 Day Twenty-eight (04-09-2024), question:- Common in 3 Sorted Arrays <br>
 Day Twenty-nine (05-09-2024), question:- Floor in a Sorted Array <br>
+Day Twenty-nine (05-09-2024), question:- Floor in a Sorted Array <br>
