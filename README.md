@@ -31,4 +31,6 @@ Day Twenty-seven (03-09-2024), question:- Find duplicate rows in a binary matrix
 Day Twenty-eight (04-09-2024), question:- Common in 3 Sorted Arrays <br>
 Day Twenty-nine (05-09-2024), question:- Floor in a Sorted Array <br>
 Day Thirty (06-09-2024), question:- Find Pair Given Difference <br>
-Day Thirty-one (07-09-2024), question:-  <br>
+Day Thirty-one (07-09-2024), question:-  Majority Element<br>
+Day Thirty-two (08-09-2024), question:-  <br>
+Day Thirty-three (09-09-2024), question:-  <br>
