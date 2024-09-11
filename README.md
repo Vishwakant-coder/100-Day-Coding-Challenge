@@ -34,4 +34,6 @@ Day Thirty (06-09-2024), question:- Find Pair Given Difference <br>
 Day Thirty-one (07-09-2024), question:-  Majority Element<br>
 Day Thirty-two (08-09-2024), question:- Sort 0s, 1s and 2s<br>
 Day Thirty-three (09-09-2024), question:-  Merge Without Extra Space<br>
-Day Thirty-four (10-09-2024), question:-  Merge Without Extra Space<br>
+Day Thirty-four (10-09-2024), question:- Two Repeated Elements <br>
+Day Thirty-five (11-09-2024), question:-  <br>
+Day Thirty-six (12-09-2024), question:-  <br>
