@@ -41,3 +41,4 @@ Day Thirty-seven (13-09-2024), question:- Alternate positive and negative number
 Day Thirty-eight (14-09-2024), question:- Reverse a linked list <br>
 Day Thirty-nine (15-09-2024), question:- Merge two sorted linked lists <br>
 Day Fourty (16-09-2024), question:- Delete without head pointer <br>
+Day Fourty-one (17-09-2024), question:- Remove duplicates from an unsorted linked list <br>
