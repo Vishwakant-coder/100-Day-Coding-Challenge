@@ -44,3 +44,4 @@ Day Fourty (16-09-2024), question:- Delete without head pointer <br>
 Day Fourty-one (17-09-2024), question:- Remove duplicates from an unsorted linked list <br>
 Day Fourty-two (18-09-2024), question:- Sort a linked list of 0s, 1s and 2s <br>
 Day Fourty-three (19-09-2024), question:- Kth from End of Linked List <br>
+Day Fourty-four (20-09-2024), question:- Facing the sun <br>
