@@ -46,3 +46,4 @@ Day Fourty-two (18-09-2024), question:- Sort a linked list of 0s, 1s and 2s <br>
 Day Fourty-three (19-09-2024), question:- Kth from End of Linked List <br>
 Day Fourty-four (20-09-2024), question:- Facing the sun <br>
 Day Fourty-five (21-09-2024), question:- Intersection Point in Y Shaped Linked Lists <br>
+Day Forty-six (21-09-2024), question:- Maximum_Sum <br>
