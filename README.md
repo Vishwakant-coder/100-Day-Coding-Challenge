@@ -48,3 +48,4 @@ Day Fourty-four (20-09-2024), question:- Facing the sun <br>
 Day Fourty-five (21-09-2024), question:- Intersection Point in Y Shaped Linked Lists <br>
 Day Forty-six (22-09-2024), question:- Maximum_Sum <br>
 Day Forty-seven (23-09-2024), question:- Reverse a Doubly Linked List <br>
+Day Forty-eight (24-09-2024), question:-  Delete nodes having greater value on right<br>
