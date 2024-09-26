@@ -72,8 +72,6 @@ class Solution {
 
 
 //{ Driver Code Starts.
-
-/* Function to print nodes in a given linked list */
 void printList(struct Node *head) {
     struct Node *temp = head;
     while (temp != NULL) {
@@ -82,7 +80,6 @@ void printList(struct Node *head) {
     }
     printf("\n");
 }
-
 int main() {
     int t;
     cin >> t;
