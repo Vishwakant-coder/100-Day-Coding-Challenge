@@ -40,12 +40,13 @@ Day Thirty-six (12-09-2024), question:- Middle of a Linked List <br>
 Day Thirty-seven (13-09-2024), question:- Alternate positive and negative numbers <br>
 Day Thirty-eight (14-09-2024), question:- Reverse a linked list <br>
 Day Thirty-nine (15-09-2024), question:- Merge two sorted linked lists <br>
-Day Fourty (16-09-2024), question:- Delete without head pointer <br>
-Day Fourty-one (17-09-2024), question:- Remove duplicates from an unsorted linked list <br>
-Day Fourty-two (18-09-2024), question:- Sort a linked list of 0s, 1s and 2s <br>
-Day Fourty-three (19-09-2024), question:- Kth from End of Linked List <br>
-Day Fourty-four (20-09-2024), question:- Facing the sun <br>
-Day Fourty-five (21-09-2024), question:- Intersection Point in Y Shaped Linked Lists <br>
+Day Forty (16-09-2024), question:- Delete without head pointer <br>
+Day Forty-one (17-09-2024), question:- Remove duplicates from an unsorted linked list <br>
+Day Forty-two (18-09-2024), question:- Sort a linked list of 0s, 1s and 2s <br>
+Day Forty-three (19-09-2024), question:- Kth from End of Linked List <br>
+Day Forty-four (20-09-2024), question:- Facing the sun <br>
+Day Forty-five (21-09-2024), question:- Intersection Point in Y Shaped Linked Lists <br>
 Day Forty-six (22-09-2024), question:- Maximum_Sum <br>
 Day Forty-seven (23-09-2024), question:- Reverse a Doubly Linked List <br>
-Day Forty-eight (24-09-2024), question:-  Delete nodes having greater value on right<br>
+Day Forty-eight (24-09-2024), question:- Delete nodes having greater value on right <br>
+Day Forty-nine (25-09-2024), question:- Palindrome Linked List <br>
