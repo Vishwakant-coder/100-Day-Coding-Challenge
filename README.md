@@ -51,3 +51,4 @@ Day Forty-seven (23-09-2024), question:- Reverse a Doubly Linked List <br>
 Day Forty-eight (24-09-2024), question:- Delete nodes having greater value on right <br>
 Day Forty-nine (25-09-2024), question:- Palindrome Linked List <br>
 Day Fifty (26-09-2024), question:- Roof Top <br>
+Day Fifty-one (27-09-2024), question:- K Sized Subarray Maximum <br>
