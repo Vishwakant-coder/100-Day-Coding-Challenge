@@ -52,3 +52,4 @@ Day Forty-eight (24-09-2024), question:- Delete nodes having greater value on ri
 Day Forty-nine (25-09-2024), question:- Palindrome Linked List <br>
 Day Fifty (26-09-2024), question:- Roof Top <br>
 Day Fifty-one (27-09-2024), question:- K Sized Subarray Maximum <br>
+Day Fifty-two (28-09-2024), question:- Merge K sorted linked lists <br>
