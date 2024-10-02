@@ -56,3 +56,4 @@ Day Fifty-two (28-09-2024), question:- Merge K sorted linked lists <br>
 Day Fifty-two (29-09-2024), question:- Merge Sort for Linked List <br>
 Day Fifty-four (30-09-2024), question:- Quick Sort on Linked List <br>
 Day Fifty-five (1-10-2024), question:- Multiply two linked lists <br>
+Day Fifty-six (2-10-2024), question:- Implement two stacks in an array <br>
