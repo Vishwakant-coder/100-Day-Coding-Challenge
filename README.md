@@ -57,4 +57,5 @@ Day Fifty-two (29-09-2024), question:- Merge Sort for Linked List <br>
 Day Fifty-four (30-09-2024), question:- Quick Sort on Linked List <br>
 Day Fifty-five (1-10-2024), question:- Multiply two linked lists <br>
 Day Fifty-six (2-10-2024), question:- Implement two stacks in an array <br>
-Day Fifty-seven (3-10-2024), question:- Evaluation of Postfix Expression <br>
+Day Fifty-seven (03-10-2024), question:- Evaluation of Postfix Expression <br>
+Day Fifty-eight (04-10-2024), question:- Stack using two queues <br>
