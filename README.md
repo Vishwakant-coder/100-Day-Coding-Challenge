@@ -60,3 +60,4 @@ Day Fifty-six (2-10-2024), question:- Implement two stacks in an array <br>
 Day Fifty-seven (03-10-2024), question:- Evaluation of Postfix Expression <br>
 Day Fifty-eight (04-10-2024), question:- Stack using two queues <br>
 Day Fifty-nine (05-10-2024), question:- Queue Reversal <br>
+Day Sixty (06-10-2024), question:- XOR Linked List <br>
