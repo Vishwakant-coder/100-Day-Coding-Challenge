@@ -64,3 +64,4 @@ Day Sixty (06-10-2024), question:- XOR Linked List <br>
 Day Sixty-one (07-10-2024), question:- Largest Pair Sum <br>
 Day Sixty-two (08-10-2024), question:- Delete Mid of a Stack <br>
 Day Sixty-three (09-10-2024), question:- Max distance between same elements <br>
+Day Sixty-four (10-10-2024), question:- Reorganize The Array <br>
