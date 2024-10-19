@@ -73,3 +73,4 @@ Day Sixty-nine (15-10-2024), question:- Two Swaps <br>
 Day Seventy (16-10-2024), question:- Split Linked List Alternatingly <br>
 Day Seventy-one (17-10-2024), question:- Single Number <br>
 Day Seventy-two (18-10-2024), question:- SNearest multiple of 10 <br>
+Day Seventy-three (19-10-2024), question:- Sort a k sorted doubly linked list <br>
