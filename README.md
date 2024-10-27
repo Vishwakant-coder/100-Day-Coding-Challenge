@@ -81,3 +81,4 @@ Day Seventy-seven (23-10-2024), question:- Modify the Array <br>
 Day Seventy-eight (24-10-2024), question:- Alternative Sorting <br>
 Day Seventy-nine (25-10-2024), question:- Occurence of an integer in a Linked List <br>
 Day Eighty (26-10-2024), question:- Remove duplicates in array <br>
+Day Eighty-one (27-10-2024), question:- Triplet Family <br>
