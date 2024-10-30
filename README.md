@@ -84,3 +84,4 @@ Day Eighty (26-10-2024), question:- Remove duplicates in array <br>
 Day Eighty-one (27-10-2024), question:- Triplet Family <br>
 Day Eighty-two (27-10-2024), question:- Indexes of Subarray Sum <br>
 Day Eighty-three (27-10-2024), question:- Pairs with difference k <br>
+Day Eighty-four (27-10-2024), question:- Insert in Sorted way in a Sorted DLL <br>
