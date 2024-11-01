@@ -86,3 +86,4 @@ Day Eighty-two (28-10-2024), question:- Indexes of Subarray Sum <br>
 Day Eighty-three (29-10-2024), question:- Pairs with difference k <br>
 Day Eighty-four (30-10-2024), question:- Insert in Sorted way in a Sorted DLL <br>
 Day Eighty-five (31-10-2024), question:- Swap and Maximize <br>
+Day Eighty-six (01-11-2024), question:- Kth distance <br>
