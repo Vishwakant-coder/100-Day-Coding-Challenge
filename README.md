@@ -88,3 +88,5 @@ Day Eighty-four (30-10-2024), question:- Insert in Sorted way in a Sorted DLL <b
 Day Eighty-five (31-10-2024), question:- Swap and Maximize <br>
 Day Eighty-six (01-11-2024), question:- Kth distance <br>
 Day Eighty-seven (02-11-2024), question:- Is Linked List Length Even? <br>
+Day Eighty-eight (03-11-2024), question:- Find All Triplets with Zero Sum <br>
+Day Eighty-nine (04-11-2024), question:- Rotate by 90 degree <br>
