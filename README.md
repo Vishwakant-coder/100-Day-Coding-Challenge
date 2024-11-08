@@ -92,4 +92,5 @@ Day Eighty-eight (03-11-2024), question:- Find All Triplets with Zero Sum <br>
 Day Eighty-nine (04-11-2024), question:- Rotate by 90 degree <br>
 Day Ninety (05-11-2024), question:- Power Of Numbers <br>
 Day Ninety-one (06-11-2024), question:- Root to leaf paths sum <br>
-Day Ninety-two (06-11-2024), question:- Split array in three equal sum subarrays <br>
+Day Ninety-two (07-11-2024), question:- Split array in three equal sum subarrays <br>
+Day Ninety-three (08-11-2024), question:- Minimum repeat to make substring <br>
