@@ -94,3 +94,4 @@ Day Ninety (05-11-2024), question:- Power Of Numbers <br>
 Day Ninety-one (06-11-2024), question:- Root to leaf paths sum <br>
 Day Ninety-two (07-11-2024), question:- Split array in three equal sum subarrays <br>
 Day Ninety-three (08-11-2024), question:- Minimum repeat to make substring <br>
+Day Ninety-four (09-11-2024), question:- Minimum sum <br>
