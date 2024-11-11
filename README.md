@@ -96,3 +96,4 @@ Day Ninety-two (07-11-2024), question:- Split array in three equal sum subarrays
 Day Ninety-three (08-11-2024), question:- Minimum repeat to make substring <br>
 Day Ninety-four (09-11-2024), question:- Minimum sum <br>
 Day Ninety-five (10-11-2024), question:- Union of Two Sorted Arrays with Distinct Elements <br>
+Day Ninety-six (11-11-2024), question:- Make array elements unique <br>
