@@ -99,3 +99,4 @@ Day Ninety-five (10-11-2024), question:- Union of Two Sorted Arrays with Distinc
 Day Ninety-six (11-11-2024), question:- Make array elements unique <br>
 Day Ninety-seven (12-11-2024), question:- Meeting Rooms <br>
 Day Ninety-eight (13-11-2024), question:- Rotate Array <br>
+Day Ninety-nine (14-11-2024), question:- Nearly sorted <br>
